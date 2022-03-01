@@ -2,7 +2,7 @@
 <h3 align="center">AI Developer and Acoustic Engineer student</h3>
 <br>
 
-- 📫 How to reach me **n.passano@hotmail.com**
+- 📫 How to reach me: **n.passano@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
