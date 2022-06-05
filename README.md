@@ -23,7 +23,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=keyword_spotting_api)](https://github.com/nahue-passano/keyword_spotting_api)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=voice_assistant)](https://github.com/nahue-passano/voice_assistant) 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=loudspeaker_simulation_ipynb)](https://github.com/nahue-passano/loudspeaker_simulation_ipynb)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=musical_signal_identifier)](https://github.com/nahue-passano/musical_signal_identifier) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=loudspeaker_simulation)](https://github.com/nahue-passano/loudspeaker_simulation)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=musical_signal_identifier)](https://github.com/nahue-passano/musical_signal_identifier) 
 
 ---
 
