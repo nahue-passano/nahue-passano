@@ -29,7 +29,7 @@
 
 <h3 align="left"> Courses done:</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=data_analysis_freeCodeCamp)](https://github.com/nahue-passano/data_analysis_freeCodeCamp) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=data_analysis_freeCodeCamp)](https://github.com/nahue-passano/data_analysis_freeCodeCamp)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=CNN_coursera)](https://github.com/nahue-passano/CNN_coursera) 
 
 ---
 
