@@ -10,11 +10,12 @@
 - <h3 align="left"> Frameworks:</h3> 
 
   - **Scientific computation**: <img align="center" alt="Numpy" width="22px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg" />  **Numpy** - <img align="center" alt="Scipy" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />  **Scipy**  
-  - **Data manipulation and visualization**: <img align="center" alt="Pandas" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />  **Pandas**   -   <img align="center" alt="Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />  **MatplotLib** 
+  - **Data manipulation and visualization**: <img align="center" alt="Pandas" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" />  **Pandas**   -   <img align="center" alt="Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />  **MatplotLib** -  <img align="center" alt="Matplotlib" width="22px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />  **Seaborn**
   - **Machine Learning**: <img align="center" alt="TensorFlow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" />  **TensowFlow** - <img align="center" alt="Keras" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />  **Keras** - <img align="center" alt="ScikitLearn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />  **Scikit Learn** - <img align="center" alt="PyTorch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />  **PyTorch** 
 - <h3 align="left"> Tools:</h3> 
 
-  - <img align="center" alt="Docker" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/>  **Docker** - <img align="center" alt="Git" width="22px" src="https://academy.aviada.mx/wp-content/uploads/sites/6/2020/10/git-icon.png" /> **Git** - <img align="center" alt="Spyder" width="22px" src="https://spyder-ide.github.io/lektor-icon/static/images/spyder-logo.svg"/>  **Spyder** - <img align="center" alt="Google Colab" width="22px" src="https://avatars.githubusercontent.com/u/38081706?v=4" /> **Google Colab**  - <img align="center" alt="Visual Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>  **Visual Studio** 
+  - <img align="center" alt="Docker" width="22px" src="https://portal-api.handytec.mobi/api/v2/storage/show/marketing/vEApJOCPVlUa4XS6Ke8yYsW2aELmNziq.png"/>  **AWS** - <img align="center" alt="Docker" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/>  **Docker** - <img align="center" alt="Git" width="22px" src="https://academy.aviada.mx/wp-content/uploads/sites/6/2020/10/git-icon.png" /> **Git** - <img align="center" alt="Spyder" width="22px" src="https://spyder-ide.github.io/lektor-icon/static/images/spyder-logo.svg"/>  **Spyder** - <img align="center" alt="Google Colab" width="22px" src="https://avatars.githubusercontent.com/u/38081706?v=4" /> **Google Colab**  - <img align="center" alt="Visual Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>  **Visual Studio** 
+
 
 
 ---
@@ -30,7 +31,7 @@
 
 <h3 align="left"> Courses done:</h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=data_analysis_freeCodeCamp)](https://github.com/nahue-passano/data_analysis_freeCodeCamp)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=CNN_coursera)](https://github.com/nahue-passano/CNN_coursera) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=data_analysis_freeCodeCamp)](https://github.com/nahue-passano/data_analysis_freeCodeCamp)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=feature_engineering_kaggle)](https://github.com/nahue-passano/feature_engineering_kaggle) 
 
 ---
 
