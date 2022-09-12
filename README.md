@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel Passano</h1>
-<h3 align="center">AI Engineer and Acoustic Engineer student
+<h3 align="center">Machine Learning Engineer and Acoustic Engineer student
 </h3>
 
 ---
