@@ -17,22 +17,6 @@
   - <img align="center" alt="Docker" width="22px" src="https://portal-api.handytec.mobi/api/v2/storage/show/marketing/vEApJOCPVlUa4XS6Ke8yYsW2aELmNziq.png"/>  **AWS** - <img align="center" alt="Docker" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/>  **Docker** - <img align="center" alt="Git" width="22px" src="https://academy.aviada.mx/wp-content/uploads/sites/6/2020/10/git-icon.png" /> **Git** - <img align="center" alt="Spyder" width="22px" src="https://spyder-ide.github.io/lektor-icon/static/images/spyder-logo.svg"/>  **Spyder** - <img align="center" alt="Google Colab" width="22px" src="https://avatars.githubusercontent.com/u/38081706?v=4" /> **Google Colab**  - <img align="center" alt="Visual Studio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>  **Visual Studio** 
 
 
-
----
-
-
-<h3 align="left"> Some of my most interesting projects:</h3>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=keyword_spotting_api)](https://github.com/nahue-passano/keyword_spotting_api)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=voice_assistant)](https://github.com/nahue-passano/voice_assistant) 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=loudspeaker_simulation)](https://github.com/nahue-passano/loudspeaker_simulation)   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=musical_signal_identifier)](https://github.com/nahue-passano/musical_signal_identifier) 
-
----
-
-<h3 align="left"> Courses done:</h3>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=data_analysis_freeCodeCamp)](https://github.com/nahue-passano/data_analysis_freeCodeCamp)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nahue-passano&repo=feature_engineering_kaggle)](https://github.com/nahue-passano/feature_engineering_kaggle) 
-
 ---
 
 <h3 align="left">Connect with me:</h3>
