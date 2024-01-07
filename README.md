@@ -4,8 +4,6 @@
 
 🧠 I am a Machine Learning Engineer currently focused on applying artificial intelligence in the healthcare sector, working on the analysis and development of predictive models for patients with Amyotrophic Lateral Sclerosis (ALS). 
 
-👁️ I also have experience in end-to-end Computer Vision projects and specialize in AI applied to audio. 
-
 🗣️ In my Acoustic Engineering thesis project, I am developing a voice cloning system for the Rioplatense Spanish dialect, capable of synthesizing high-quality speech in real time with detailed control over pitch and phoneme duration. 
 
 ---
