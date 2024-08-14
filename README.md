@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nahuel Passano</h1>
-<h3 align="center"> Audio DSP Engineer | Machine Learning Engineer
+<h3 align="center"> Audio AI Engineer | Machine Learning Engineer
 </h3>
 
-🧠 I am an Audio DSP and Machine Learning Engineer currently focused on applying artificial intelligence in the embedded audio industry.
+🧠 I am an Audio AI and Machine Learning Engineer, currently focused on developing real-time AI systems for speech processing, including speaker separation, dereverberation, and denoising.
 
-🗣️ In my Acoustic Engineering thesis project, I am developing a voice cloning system for the Rioplatense Spanish dialect, capable of synthesizing high-quality speech in real time with detailed control over pitch and phoneme duration. 
+🗣️ For my Acoustical Engineering thesis, I developed a voice cloning system for the Rioplatense Spanish dialect. This system synthesizes high-quality speech in real time, offering detailed control over pitch and phoneme duration.
+
 
 ---
 <h3 align="left">My skills:</h3>
